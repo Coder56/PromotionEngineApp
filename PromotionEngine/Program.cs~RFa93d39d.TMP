@@ -14,12 +14,12 @@ namespace PromotionEngine
             Price priceCalc = new Price();
             List<Product> productList = new List<Product>();
 
-            Console.WriteLine("Enter number of Orders");
+            Console.WriteLine("Enter total number of order");
             int numberOfUnits = Convert.ToInt32(Console.ReadLine());
 
             for (int i = 0; i < numberOfUnits; i++)
             {
-                Console.WriteLine(" Enter Product Type- A,B,C,D");
+                Console.WriteLine("Please enter type of Product A,B,C,D");
                 string Type = Console.ReadLine();
                  product = product.getProduct(Type.ToUpper());
                 productList.Add(product);                

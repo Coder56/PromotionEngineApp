@@ -1,0 +1,6 @@
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe.config
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.csproj.CoreCompileInputs.cache
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.exe
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngine\obj\Debug\PromotionEngine.pdb
