@@ -1,0 +1,2 @@
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngineUnitTestProject\obj\Debug\PromotionEngineUnitTestProject.csprojAssemblyReference.cache
+C:\Users\Raavan\Desktop\Promotion Engine\PromotionEngine-master\PromotionEngine\PromotionEngineUnitTestProject\obj\Debug\PromotionEngineUnitTestProject.csproj.CoreCompileInputs.cache
